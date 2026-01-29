@@ -1,41 +1,39 @@
 ## Hi, I’m Milika Faith 👋   
 
-Welcome to my GitHub! This is where I share **projects, analyses, and workflows** that transform raw data into **strategic business solutions**.  
+I’m a **data analyst and business administration professional** with over 4 years of experience in business operations and management. My journey into analytics began after completing a **BSc in Statistics and Programming**, when I was thrust into the business world and quickly realized the power of data beyond numbers.y can leverage data to further grow and develop.
 
----
+What started as curiosity grew into a passion for understanding patterns, asking better questions, and translating data into insights that support real-world business decisions. I’m driven by the process of uncovering stories hidden in data and using them to guide growth, efficiency, and meaningful business transformation.
 
-## 🚀 What You’ll Find Here
-- **Tool-driven projects**: SQL, Excel, Power BI, Python, DuckDB, visualizations, and more.  
-- **Insights with impact**: Analyses designed to inform decisions and drive measurable business results.  
-- **Reproducible workflows**: Clean, documented code ready to explore, adapt, and learn from.  
+## 🛠 My Tech Stack includes;
++ SQL
++ PowerBI
++ Tableau
++ Excel
 
----
+## 🔎A glimpse into my Projects
+Each project reflects my approach to solving business problems through data, combining technical analysis with practical insight.
 
-## 📂 Explore My Work
-- **[Projects](./projects)** – Full implementations demonstrating business problem-solving.  
-- **[Notebooks](./notebooks)** – Step-by-step walkthroughs of analyses and methodologies.  
-- **[Case Studies](./case-studies)** – Real examples of data translated into actionable business decisions.  
+[**SQL NYC Taxi Trip Operations Analysis**](https://github.com/MilikaFaith/SQL-queries-in-DuckDB)
+  + Leveraging SQL to analyze operational trends and revenue performance within a high-volume, real-world dataset.
 
----
+[**Power BI Sales Performance Dashboard**](https://github.com/MilikaFaith/SALES-AND-MARKETING-PERFORMANCE-DASHBOARD-)
+  + An interactive dashboard designed to surface key sales insights across multiple performance dimensions.
 
-## 💡 Highlights
-- Turning **complex data into clear insights**.  
-- Building **scalable, reproducible workflows** that others can learn from and use.  
-- Providing **business context and strategy** alongside technical solutions.  
+[**Excel Subscription Analysis**](https://github.com/MilikaFaith/SUBSCRIPTION-CASE-STUDY)
+  + A comprehensive subscription case study built entirely in Excel, evaluating the viability of a new subscription model.
 
----
+## ⭐Currently Working on;
+I’m currently building toward the launch of a Data Literacy firm focused on equipping and empowering businesses,particularly SMEs to confidently adopt a data-driven culture.
 
-## 🛠 Tech & Tools
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-DuckDB-orange?logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-data-blue)
-![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%2C%20Seaborn-lightgrey)
+Many organizations find today’s data landscape intimidating and overly complex due to gaps in understanding. My goal is to simplify data, build internal capability, and help businesses gain the confidence to make informed, data-backed decisions that support long-term growth.
 
----
+## 💥Fun Facts
++ Music really calms me,my love for cats is unmatched and you’ll almost always find me in sneakers.
 
-## 📬 Connect & Collaborate
-Interested in a project, collaboration, or exploring ideas?  
-- Open an **issue** or **pull request**  
-- Reach out via **[LinkedIn](https://www.linkedin.com/in/faith-kamandi/)**  
-- Explore my **[Portfolio](https://milikafaith.github.io/)** for business-focused case studies  
+## 🤝Let's Connect
+📧 [Email](mailto:faithmilikakamandi@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/faith-kamandi/)
+
+
+
 
