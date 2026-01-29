@@ -1,6 +1,6 @@
 ## Hi, I’m Milika Faith 👋   
 
-I’m a **data analyst and business administration professional** with over 4 years of experience in business operations and management. My journey into analytics began after completing a **BSc in Statistics and Programming**, when I was thrust into the business world and quickly realized the power of data beyond numbers.y can leverage data to further grow and develop.
+I’m a **data analyst and business administration professional** with over 4 years of experience in business operations and management. My journey into analytics began after completing a **BSc in Statistics and Programming**, when I was thrust into the business world and quickly realized the power of data beyond numbers.
 
 What started as curiosity grew into a passion for understanding patterns, asking better questions, and translating data into insights that support real-world business decisions. I’m driven by the process of uncovering stories hidden in data and using them to guide growth, efficiency, and meaningful business transformation.
 
